@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Web Tool Automation Test Suite">
+
+
+	<test name="Web App">
+		<classes>
+			<class name="com.Amazon.AmazonBuyProduct"></class>
+		</classes>
+	</test>
+</suite>
